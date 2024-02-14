@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805878665788",
+    "project_id": "instac-c45c8",
+    "storage_bucket": "instac-c45c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805878665788:android:d9bea28bf2416a4a9be939",
+        "android_client_info": {
+          "package_name": "com.example.instac"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805878665788-ft1kfvu1rk9niqos2070u8jjijbmc4st.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjbfFsRLtGXJeNi46yrB69iI0T9oL6sqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805878665788-ft1kfvu1rk9niqos2070u8jjijbmc4st.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
