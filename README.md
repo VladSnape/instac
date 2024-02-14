@@ -1,7 +1,26 @@
 # instac
 
-A new Flutter project.
-
+instac is a instagram clone.  using the clean architecture and cubbit and bloc state management in dart and flutter . it uses firebase as a backend . 
+features : 
+- register
+- log in 
+- change theme 
+- post text posts
+- post image posts 
+- comment 
+- load comments 
+- load posts
+ -like posts
+- see likes 
+- like comments 
+- load profiles
+- see profile 
+- search users
+- change user name 
+- change bio 
+- change profile picture
+- 
+- and many more ....
 ## Getting Started
 
 This project is a starting point for a Flutter application.
